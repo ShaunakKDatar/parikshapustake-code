@@ -1,6 +1,5 @@
 
 const express = require('express');
-//const genres = require('./routes/genres');
 const submittedBooks = require('./routes/submittedbooks');
 const cors = require('cors');
 const app = express();

@@ -1,6 +1,5 @@
 
 const express = require('express');
-const Joi = require('joi');
 const router = express.Router();
 const cors = require('cors');
 const mongoose = require('mongoose');
