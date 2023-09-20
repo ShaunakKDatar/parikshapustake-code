@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "6509cbd343c80fbe79809583"
+  },
+  "title": "Anatomy: Volume 1 for MBBS First Year",
+  "author": "sk das",
+  "publisher": "upadhyay publications",
+  "status": "accepted",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "This book is excellent for beginners.",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809584"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "A must-read book!",
+      "score": 5,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809585"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Highly recommended!",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809586"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe79809589"
+  },
+  "title": "Physiology Essentials for Medical Students",
+  "author": "wavhal",
+  "publisher": "target publications",
+  "status": "accepted",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "A great book for medical students.",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980958a"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Easy to understand content.",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980958b"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Excellent explanations.",
+      "score": 5,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980958c"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe7980958e"
+  },
+  "title": "Biochemistry Fundamentals for MBBS Beginners",
+  "author": "sk das",
+  "publisher": "target publications",
+  "status": "accepted",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Comprehensive and well-structured.",
+      "score": 4,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980958f"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Great book for beginners.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809590"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Highly recommended!",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809591"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe79809593"
+  },
+  "title": "Textbook of Histology and Cell Biology",
+  "author": "balguruswamy",
+  "publisher": "arihant publications",
+  "status": "accepted",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "In-depth content.",
+      "score": 5,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809594"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Clear illustrations.",
+      "score": 4,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809595"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Excellent reference book.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809596"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe79809598"
+  },
+  "title": "Human Genetics and Molecular Biology",
+  "author": "mddayal",
+  "publisher": "cengage publications",
+  "status": "rejected",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Lacks essential details.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe79809599"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Needs improvement.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980959a"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Not recommended.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980959b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe7980959d"
+  },
+  "title": "Principles of Pathology for Medical Students",
+  "author": "sk das",
+  "publisher": "disha publications",
+  "status": "rejected",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Incomplete content.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980959e"
+      }
+    },
+    {
+      "reviewer_name": "Needs more explanations.",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe7980959f"
+      }
+    },
+    {
+      "reviewer_name": "Lacks depth.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095a0"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe798095a2"
+  },
+  "title": "Pharmacology Made Easy: MBBS Year 1 Edition",
+  "author": "satyanarayan",
+  "publisher": "upadhyay publications",
+  "status": "rejected",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Confusing content.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095a3"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Not user-friendly.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095a4"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Difficult to follow.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095a5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe798095a7"
+  },
+  "title": "Microbiology: Basics and Beyond for Freshmen",
+  "author": "bd chauraisa",
+  "publisher": "disha publications",
+  "status": "accepted",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Comprehensive and easy to understand.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095a8"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Great book for beginners.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095a9"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Highly recommended!",
+      "score": 5,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095aa"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe798095ac"
+  },
+  "title": "Introduction to Clinical Medicine",
+  "author": "goyal",
+  "publisher": "upadhyay publications",
+  "status": "rejected",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Incomplete content.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095ad"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Needs more explanations.",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095ae"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Lacks depth.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095af"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509cbd343c80fbe798095b1"
+  },
+  "title": "Medical Ethics and Professionalism Handbook",
+  "author": "bdchaurasia",
+  "publisher": "arihant publications",
+  "status": "rejected",
+  "reviews": [
+    {
+      "reviewer_name": "RAJ SHASHTRI",
+      "review": "Confusing content.",
+      "score": 3,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095b2"
+      }
+    },
+    {
+      "reviewer_name": "SANIA MUKADAM",
+      "review": "Not user-friendly.",
+      "score": 1,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095b3"
+      }
+    },
+    {
+      "reviewer_name": "ADITYA DESHPANDE",
+      "review": "Difficult to follow.",
+      "score": 2,
+      "_id": {
+        "$oid": "6509cbd343c80fbe798095b4"
+      }
+    }
+  ],
+  "__v": 0
+}]
